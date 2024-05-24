@@ -1,0 +1,83 @@
+.mb-4{
+    text-align: center;
+}
+
+.contacto-container .descripcion {
+    margin-bottom: 20px;
+  }
+  
+  .contacto-container .descripcion p {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .contacto-container textarea {
+    width: 100%; /* Establece el ancho al 100% del contenedor padre */
+    height: 100px; /* Define la altura del cuadro */
+    padding: 10px;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+.contacto-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  .contacto-container h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .contacto-container p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+  }
+  
+  .contacto-container form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+  }
+  
+  .contacto-container label {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .contacto-container input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .contacto-container .boton-contacto {
+    width: 200px;
+    padding: 10px;
+    font-size: 1.2rem;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .contacto-container .boton-contacto:hover {
+    background-color: #45a049;
+  }
+
+  
+
+  .navbar {
+    
+    background-color: #FF0000;
+    
+  }
